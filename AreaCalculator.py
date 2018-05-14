@@ -1,6 +1,5 @@
 """ 
 TITLE: AreaCalculator.py
-UNIT: 3
 AUTHOR: Renato Lima
 The program should do the following:
 1- Prompt the user to select a shape
